@@ -1,4 +1,4 @@
-# get_stck_info
+# get_stock_info
 
 *目的:透過爬蟲製作簡易股票資訊表格
 
